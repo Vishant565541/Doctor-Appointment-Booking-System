@@ -1,4 +1,11 @@
 # LifeCare Full Stack Project
+![Image](https://github.com/user-attachments/assets/0a4777e0-bb3a-49dd-9b49-6461c191dfe0)
+
+![Image](https://github.com/user-attachments/assets/de2a3962-02df-4ce0-ae04-83a83c3bc37a)
+
+![Image](https://github.com/user-attachments/assets/d81147f5-3803-427f-9df2-e01538c0f31a)
+
+![Image](https://github.com/user-attachments/assets/ce9d1282-9131-481f-8645-74efb434f6d1)
 
 ## Overview
 LifeCare is a full-stack web application designed for healthcare management, featuring three main modules:
